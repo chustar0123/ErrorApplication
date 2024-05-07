@@ -1,0 +1,30 @@
+C:\Users\chust\OneDrive\Documents\DEVELOPMENT SOFTWARE 2 ONT2000\ASSIGNMENT 1\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe.config
+C:\Users\chust\OneDrive\Documents\DEVELOPMENT SOFTWARE 2 ONT2000\ASSIGNMENT 1\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe
+C:\Users\chust\OneDrive\Documents\DEVELOPMENT SOFTWARE 2 ONT2000\ASSIGNMENT 1\Assignment 1\Assignment 1\bin\Debug\Assignment 1.pdb
+C:\Users\chust\OneDrive\Documents\DEVELOPMENT SOFTWARE 2 ONT2000\ASSIGNMENT 1\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csprojAssemblyReference.cache
+C:\Users\chust\OneDrive\Documents\DEVELOPMENT SOFTWARE 2 ONT2000\ASSIGNMENT 1\Assignment 1\Assignment 1\obj\Debug\Assignment_1.frmStudy.resources
+C:\Users\chust\OneDrive\Documents\DEVELOPMENT SOFTWARE 2 ONT2000\ASSIGNMENT 1\Assignment 1\Assignment 1\obj\Debug\Assignment_1.frmTopic.resources
+C:\Users\chust\OneDrive\Documents\DEVELOPMENT SOFTWARE 2 ONT2000\ASSIGNMENT 1\Assignment 1\Assignment 1\obj\Debug\Assignment_1.Properties.Resources.resources
+C:\Users\chust\OneDrive\Documents\DEVELOPMENT SOFTWARE 2 ONT2000\ASSIGNMENT 1\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csproj.GenerateResource.cache
+C:\Users\chust\OneDrive\Documents\DEVELOPMENT SOFTWARE 2 ONT2000\ASSIGNMENT 1\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\chust\OneDrive\Documents\DEVELOPMENT SOFTWARE 2 ONT2000\ASSIGNMENT 1\Assignment 1\Assignment 1\obj\Debug\Assignment 1.exe
+C:\Users\chust\OneDrive\Documents\DEVELOPMENT SOFTWARE 2 ONT2000\ASSIGNMENT 1\Assignment 1\Assignment 1\obj\Debug\Assignment 1.pdb
+C:\Users\chust\OneDrive\Documents\DEVELOPMENT SOFTWARE 2 ONT2000\ASSIGNMENT 1\Assignment 1\Assignment 1\obj\Debug\Assignment_1.frmError.resources
+C:\Users\chust\OneDrive\Documents\DEVELOPMENT SOFTWARE 2 ONT2000\ASSIGNMENT 1\Assignment 1\Assignment 1\obj\Debug\Assignment_1.frmErrorSearch.resources
+C:\Users\chust\OneDrive\Documents\DEVELOPMENT SOFTWARE 2 ONT2000\ASSIGNMENT 1\Assignment 1\Assignment 1\obj\Debug\Assignment_1.frmLanding.resources
+C:\Users\chust\OneDrive\Documents\DEVELOPMENT SOFTWARE 2 ONT2000\ASSIGNMENT 1\Assignment 1\Assignment 1\obj\Debug\Assignment_1.frmSolution.resources
+C:\Users\CHUMANI\OneDrive - Nelson Mandela University\INFORMATION TECHNOLOGY(2ND YEAR)\DEVELOPMENT SOFTWARE 2 ONT2000\ASSIGNMENT 1\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe.config
+C:\Users\CHUMANI\OneDrive - Nelson Mandela University\INFORMATION TECHNOLOGY(2ND YEAR)\DEVELOPMENT SOFTWARE 2 ONT2000\ASSIGNMENT 1\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe
+C:\Users\CHUMANI\OneDrive - Nelson Mandela University\INFORMATION TECHNOLOGY(2ND YEAR)\DEVELOPMENT SOFTWARE 2 ONT2000\ASSIGNMENT 1\Assignment 1\Assignment 1\bin\Debug\Assignment 1.pdb
+C:\Users\CHUMANI\OneDrive - Nelson Mandela University\INFORMATION TECHNOLOGY(2ND YEAR)\DEVELOPMENT SOFTWARE 2 ONT2000\ASSIGNMENT 1\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csproj.AssemblyReference.cache
+C:\Users\CHUMANI\OneDrive - Nelson Mandela University\INFORMATION TECHNOLOGY(2ND YEAR)\DEVELOPMENT SOFTWARE 2 ONT2000\ASSIGNMENT 1\Assignment 1\Assignment 1\obj\Debug\Assignment_1.frmStudy.resources
+C:\Users\CHUMANI\OneDrive - Nelson Mandela University\INFORMATION TECHNOLOGY(2ND YEAR)\DEVELOPMENT SOFTWARE 2 ONT2000\ASSIGNMENT 1\Assignment 1\Assignment 1\obj\Debug\Assignment_1.frmError.resources
+C:\Users\CHUMANI\OneDrive - Nelson Mandela University\INFORMATION TECHNOLOGY(2ND YEAR)\DEVELOPMENT SOFTWARE 2 ONT2000\ASSIGNMENT 1\Assignment 1\Assignment 1\obj\Debug\Assignment_1.frmErrorSearch.resources
+C:\Users\CHUMANI\OneDrive - Nelson Mandela University\INFORMATION TECHNOLOGY(2ND YEAR)\DEVELOPMENT SOFTWARE 2 ONT2000\ASSIGNMENT 1\Assignment 1\Assignment 1\obj\Debug\Assignment_1.frmLanding.resources
+C:\Users\CHUMANI\OneDrive - Nelson Mandela University\INFORMATION TECHNOLOGY(2ND YEAR)\DEVELOPMENT SOFTWARE 2 ONT2000\ASSIGNMENT 1\Assignment 1\Assignment 1\obj\Debug\Assignment_1.frmSolution.resources
+C:\Users\CHUMANI\OneDrive - Nelson Mandela University\INFORMATION TECHNOLOGY(2ND YEAR)\DEVELOPMENT SOFTWARE 2 ONT2000\ASSIGNMENT 1\Assignment 1\Assignment 1\obj\Debug\Assignment_1.frmTopic.resources
+C:\Users\CHUMANI\OneDrive - Nelson Mandela University\INFORMATION TECHNOLOGY(2ND YEAR)\DEVELOPMENT SOFTWARE 2 ONT2000\ASSIGNMENT 1\Assignment 1\Assignment 1\obj\Debug\Assignment_1.Properties.Resources.resources
+C:\Users\CHUMANI\OneDrive - Nelson Mandela University\INFORMATION TECHNOLOGY(2ND YEAR)\DEVELOPMENT SOFTWARE 2 ONT2000\ASSIGNMENT 1\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csproj.GenerateResource.cache
+C:\Users\CHUMANI\OneDrive - Nelson Mandela University\INFORMATION TECHNOLOGY(2ND YEAR)\DEVELOPMENT SOFTWARE 2 ONT2000\ASSIGNMENT 1\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\CHUMANI\OneDrive - Nelson Mandela University\INFORMATION TECHNOLOGY(2ND YEAR)\DEVELOPMENT SOFTWARE 2 ONT2000\ASSIGNMENT 1\Assignment 1\Assignment 1\obj\Debug\Assignment 1.exe
+C:\Users\CHUMANI\OneDrive - Nelson Mandela University\INFORMATION TECHNOLOGY(2ND YEAR)\DEVELOPMENT SOFTWARE 2 ONT2000\ASSIGNMENT 1\Assignment 1\Assignment 1\obj\Debug\Assignment 1.pdb

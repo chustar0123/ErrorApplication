@@ -1,0 +1,7 @@
+100000#First Year Programming
+100001#Second Year Programming
+100002#Third Year Programming
+100003#Fourth Year Programming
+100004#Post-Grad Student
+100000#Information Technology 
+100001#Engineering

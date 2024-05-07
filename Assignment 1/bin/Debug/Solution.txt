@@ -1,0 +1,5 @@
+10000#Use the correct control name Error#Incorrect String#First Year Programming#Files and Console#Thursday, 01 April 2021
+10001#Remove semi colon#Object Reference not set to an instance of an object#Second Year Programming#Windows Forms#Friday, 02 April 2021
+10002#Convert in to string using.ToString() method#Incorrect String#Third Year Programming#Files and Forms#Saturday, 03 April 2021
+10003#Check your text file to see if the fields are the size of the specified array#Index is out of the bound of the array#Fourth Year Programming#Database Programming#Sunday, 04 April 2021
+10000#Chumani Gqibani#Object Reference not set to an instance of an object#First Year Programming#Files and Console#Wednesday, 1 February, 2023
